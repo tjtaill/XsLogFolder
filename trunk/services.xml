@@ -1,0 +1,5 @@
+<SERVICES>
+	<SERVICE CLASS="org.gjt.sp.jedit.buffer.FoldHandler" NAME="xslog">
+		new xslogfolder.XsLogFoldHandler();
+	</SERVICE>
+</SERVICES>

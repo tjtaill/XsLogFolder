@@ -1,0 +1,16 @@
+# ::mode=properties:: #
+# Basic Plugin Information {{{
+plugin.xslogfolder.XsLogFolderPlugin.activate=defer
+plugin.xslogfolder.XsLogFolderPlugin.author=ttaillefer
+plugin.xslogfolder.XsLogFolderPlugin.description=Fold Plugin for XS log files
+plugin.xslogfolder.XsLogFolderPlugin.docs=docs/XsLogFolder.html
+plugin.xslogfolder.XsLogFolderPlugin.longdescription=description.html
+plugin.xslogfolder.XsLogFolderPlugin.name=XsLogFolder
+plugin.xslogfolder.XsLogFolderPlugin.usePluginHome=true
+plugin.xslogfolder.XsLogFolderPlugin.version=0.1
+# }}} Basic Plugin Information
+
+# Dependencies {{{
+plugin.xslogfolder.XsLogFolderPlugin.depend.0=jedit 04.03.18.00
+plugin.xslogfolder.XsLogFolderPlugin.depend.1=jdk 1.5
+# }}} Dependencies
